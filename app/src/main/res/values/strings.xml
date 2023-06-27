@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name">Islamic Life - ইসলামিক জীবন</string>
+
+    <!-- Admob AD ON or OFF -->
+    <string name="show_admob_ad">ON</string>
+
+    <!-- Device ID  setTestDeviceIds (search on logcat for device id) -->
+    <string name="device_id">ABCD</string>
+
+
+    <!-- Tst Test test -->
+    <string name="admob_APP_ID">ca-app-pub-8340302855588069~9413988148</string>
+    <string name="admob_INTERSTITIAL_UNIT_ID">ca-app-pub-8340302855588069/4328611600</string>
+    <string name="admob_BANNER_UNIT_ID">ca-app-pub-8340302855588069/7129254514</string>
+
+    <string name="review_title">ধন্যবাদ 🥰</string>
+    <string name="review_des">অনুগ্রহ করে প্লে স্টোরে আমাদের রিভিও দিন। এটি আমাদের আরও ভালো করতে সাহায্য করে।</string>
+
+
+
+    <string name="category_name_1">বাংলা ওয়াজ</string>
+    <string name="category_name_2">সূরা (১১৪টি)</string>
+    <string name="category_name_3">ইসলামিক গজল</string>
+    <string name="category_name_4">প্রশ্ন উত্তর পর্ব</string>
+    <string name="category_name_5">ইসলামিক কার্টুন</string>
+    <string name="category_name_6">হজ্জ</string>
+    <string name="category_name_7">কোরবানী</string>
+    <string name="category_name_8">যাকাত / সদগা</string>
+    <string name="about_us">আমাদের সম্পর্কে</string>
+
+
+    <string name="surah_des_text">Emotional recitation by Mishary Alafasy</string>
+    <string name="surah_title_1">Surah 1 - Al-Fatiha | আল ফাতিহা</string>
+    <string name="surah_title_2">Surah 2 - Al-Baqarah | আল বাকারাহ</string>
+    <string name="surah_title_3">Surah 3 - Al Imran | আল ইমরান</string>
+    <string name="surah_title_4">Surah 4 - An-Nisa | আন নিসা</string>
+    <string name="surah_title_5">Surah 5 - Al-Ma\'idah | আল মা\'ইদাহ</string>
+    <string name="surah_title_6">Surah 6 - Al-Anam | আল আনাম</string>
+    <string name="surah_title_7">Surah 7 - Al-Araf | আল আরাফ</string>
+    <string name="surah_title_8">Surah 8 - Al-Anfal | আল আনফাল</string>
+    <string name="surah_title_9">Surah 9 - At-tauba | আত-তাওবা</string>
+    <string name="surah_title_10">Surah 10 - Yunus | ইউনুস</string>
+    <string name="surah_title_11">Surah 11 - Hud | হুদ</string>
+    <string name="surah_title_12">Surah 12 - Yusuf | ইউসুফ</string>
+    <string name="surah_title_13">Surah 13 - Ar-Ra\'d | আর রা\'দ</string>
+    <string name="surah_title_14">Surah 14 - Ibrahim | ইব্রাহিম</string>
+    <string name="surah_title_15">Surah 15 - Al-Hijr | আল হিজর</string>
+    <string name="surah_title_16">Surah 16 - An-Nahl | আন নাহল</string>
+    <string name="surah_title_17">Surah 17 - Al-Isra | আল ইসরা</string>
+    <string name="surah_title_18">Surah 18 - Al-Kahf | আল কাহফ</string>
+    <string name="surah_title_19">Surah 19 - Maryam | মারিয়াম</string>
+    <string name="surah_title_20">Surah 20 - Ta-Ha | তা-হা</string>
+    <string name="surah_title_21">Surah 21 - Al-Anbiya | আল আনবিয়া</string>
+    <string name="surah_title_22">Surah 22 - Al-Hajj | আল হজ্জ</string>
+    <string name="surah_title_23">Surah 23 - Al-Mu\'minun | আল মুমিনুন</string>
+    <string name="surah_title_24">Surah 24 - An-Nur | আন নূর</string>
+    <string name="surah_title_25">Surah 25 - Al-Furqan | আল ফুরকান</string>
+    <string name="surah_title_26">Surah 26 - Ash-Shu\'ara | আশ শু\'আরা</string>
+    <string name="surah_title_27">Surah 27 - An-Naml | আন নামল</string>
+    <string name="surah_title_28">Surah 28 - Al-Qasas | আল কাসাস</string>
+    <string name="surah_title_29">Surah 29 - Al-Ankabut | আল আনকাবূত</string>
+    <string name="surah_title_30">Surah 30 - Ar-Rum | আর রূম</string>
+    <string name="surah_title_31">Surah 31 - Luqman | লুকমান</string>
+    <string name="surah_title_32">Surah 32 - As-Sajda | আস সাজদাহ</string>
+    <string name="surah_title_33">Surah 33 - Al-Ahzab | আল আহজাব</string>
+    <string name="surah_title_34">Surah 34 - Saba | সাবা</string>
+    <string name="surah_title_35">Surah 35 - Fatir | ফাতির</string>
+    <string name="surah_title_36">Surah 36 - Ya-Sin | ইয়া-সিন</string>
+    <string name="surah_title_37">Surah 37 - As-Saffat | আস সাফতাহ</string>
+    <string name="surah_title_38">Surah 38 - Sad | সাদ</string>
+    <string name="surah_title_39">Surah 39 - Az-Zumar | আয়-যুমর</string>
+    <string name="surah_title_40">Surah 40 - Ghafir | গাফির</string>
+    <string name="surah_title_41">Surah 41 - Fussilat | ফুসিলাত</string>
+    <string name="surah_title_42">Surah 42 - Ash-Shura | আশ শূরা</string>
+    <string name="surah_title_43">Surah 43 - Az-Zukhruf | আয়-যুখরফ</string>
+    <string name="surah_title_44">Surah 44 - Ad-Dukhan | আদ-দুখান</string>
+    <string name="surah_title_45">Surah 45 - Al-Jathiyah | আল জাথিয়াহ</string>
+    <string name="surah_title_46">Surah 46 - Al-Ahqaf | আল আহকাফ</string>
+    <string name="surah_title_47">Surah 47 - Muhammad | মুহাম্মদ</string>
+    <string name="surah_title_48">Surah 48 - Al-Fath | আল ফাতহ</string>
+    <string name="surah_title_49">Surah 49 - Al-Hujurat | আল হুজরাত</string>
+    <string name="surah_title_50">Surah 50 - Qaf | কাফ</string>
+    <string name="surah_title_51">Surah 51 - Adh-Dhariyat | আয়-যারিয়াত</string>
+    <string name="surah_title_52">Surah 52 - At-Tur | আত-তুর</string>
+    <string name="surah_title_53">Surah 53 - An-Najm | আন নাজম</string>
+    <string name="surah_title_54">Surah 54 - Al-Qamar | আল কামার</string>
+    <string name="surah_title_55">Surah 55 - Ar-Rahman | আর রহমান</string>
+    <string name="surah_title_56">Surah 56 - Al-Waqi\'ah | আল ওয়াকিয়া</string>
+    <string name="surah_title_57">Surah 57 - Al-Hadid | আল হাদিদ</string>
+    <string name="surah_title_58">Surah 58 - Al-Mujadila | আল মুজাদিলা</string>
+    <string name="surah_title_59">Surah 59 - Al-Hashr | আল হাশর</string>
+    <string name="surah_title_60">Surah 60 - Al-Mumtahina | আল মুমতাহিনা</string>
+    <string name="surah_title_61">Surah 61 - As-Saff | আস সাফফ</string>
+    <string name="surah_title_62">Surah 62 - Al-Jumu\'ah | আল জুমু\'আহ</string>
+    <string name="surah_title_63">Surah 63 - Al-Munafiqun | আল মুনাফিকুন</string>
+    <string name="surah_title_64">Surah 64 - At-Taghabun | আত-তাগাবুন</string>
+    <string name="surah_title_65">Surah 65 - At-Talaq | আত-তালাক</string>
+    <string name="surah_title_66">Surah 66 - At-Tahrim | আত-তাহরীম</string>
+    <string name="surah_title_67">Surah 67 - Al-Mulk | আল মুলক</string>
+    <string name="surah_title_68">Surah 68 - Al-Qalam | আল কালাম</string>
+    <string name="surah_title_69">Surah 69 - Al-Haqqah | আল হাক্কাহ</string>
+    <string name="surah_title_70">Surah 70 - Al-Ma\'arij | আল মাআরিজ</string>
+    <string name="surah_title_71">Surah 71 - Nuh | নূহ</string>
+    <string name="surah_title_72">Surah 72 - Al-Jinn | আল জিন</string>
+    <string name="surah_title_73">Surah 73 - Al-Muzzammil | আল মুয়াম্মিল</string>
+    <string name="surah_title_74">Surah 74 - Al-Muddathir | আল মুদ্দাথির</string>
+    <string name="surah_title_75">Surah 75 - Al-Qiyamah | আল কিয়ামাহ</string>
+    <string name="surah_title_76">Surah 76 - Al-Insan | আল ইনসান</string>
+    <string name="surah_title_77">Surah 77 - Al-Mursalat | আল মুরসালাত</string>
+    <string name="surah_title_78">Surah 78 - An-Naba | আন নাবা</string>
+    <string name="surah_title_79">Surah 79 - An-Nazi\'at | আন নায়া\'যাত</string>
+    <string name="surah_title_80">Surah 80 - Abasa | আবাসা</string>
+    <string name="surah_title_81">Surah 81 - At-Takwir | আত-তাকওয়ির</string>
+    <string name="surah_title_82">Surah 82 - Al-Infitar | আল ইনফিতার</string>
+    <string name="surah_title_83">Surah 83 - Al-Mutaffifin | আল মুতাফিফীন</string>
+    <string name="surah_title_84">Surah 84 - Al-Inshiqaq | আল ইনশিকাক</string>
+    <string name="surah_title_85">Surah 85 - Al-Buruj | আল বুরুজ</string>
+    <string name="surah_title_86">Surah 86 - At-Tariq | আত-তারিক</string>
+    <string name="surah_title_87">Surah 87 - Al-A\'la | আল আ\'লা</string>
+    <string name="surah_title_88">Surah 88 - Al-Ghashiyah | আল গশিয়াহ</string>
+    <string name="surah_title_89">Surah 89 - Al-Fajr | আল ফাজর</string>
+    <string name="surah_title_90">Surah 90 - Al-Balad | আল বালাদ</string>
+    <string name="surah_title_91">Surah 91 - Ash-Shams | আশ শামস</string>
+    <string name="surah_title_92">Surah 92 - Al-Lail | আল লাইল</string>
+    <string name="surah_title_93">Surah 93 - Ad-Duha | আদ-দুহা</string>
+    <string name="surah_title_94">Surah 94 - Ash-Sharh | আশ শারহ</string>
+    <string name="surah_title_95">Surah 95 - At-Tin | আত-তীন</string>
+    <string name="surah_title_96">Surah 96 - Al-Alaq | আল আলক</string>
+    <string name="surah_title_97">Surah 97 - Al-Qadr | আল কদর</string>
+    <string name="surah_title_98">Surah 98 - Al-Bayyinah | আল বায়্যিনাহ</string>
+    <string name="surah_title_99">Surah 99 - Az-Zalzalah | আয়-য়ালয়ালা</string>
+    <string name="surah_title_100">Surah 100 - Al-Adiyat | আল আদিয়াত</string>
+    <string name="surah_title_101">Surah 101 - Al-Qari\'ah | আল কারিয়াহ</string>
+    <string name="surah_title_102">Surah 102 - At-Takathur | আত-তাকাথুর</string>
+    <string name="surah_title_103">Surah 103 - Al-Asr | আল আসর</string>
+    <string name="surah_title_104">Surah 104 - Al-Humazah | আল হুমাজাহ</string>
+    <string name="surah_title_105">Surah 105 - Al-Fil | আল ফিল</string>
+    <string name="surah_title_106">Surah 106 - Quraysh | কুরয়েশ</string>
+    <string name="surah_title_107">Surah 107 - Al-Ma\'un | আল মাউন</string>
+    <string name="surah_title_108">Surah 108 - Al-Kawthar | আল কাউসার</string>
+    <string name="surah_title_109">Surah 109 - Al-Kafirun | আল কাফিরুন</string>
+    <string name="surah_title_110">Surah 110 - An-Nasr | আন নাসর</string>
+    <string name="surah_title_111">Surah 111 - Al-Masad | আল মাসাদ</string>
+    <string name="surah_title_112">Surah 112 - Al-Ikhlas | আল ইখলাস</string>
+    <string name="surah_title_113">Surah 113 - Al-Falaq | আল ফালাক</string>
+    <string name="surah_title_114">Surah 114 - An-Nas | আন নাস</string>
+
+
+
+</resources>
